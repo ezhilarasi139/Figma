@@ -390,7 +390,7 @@ event page:
 
 thank page:
 
-[6:01 pm, 25/12/2024] Silambu 👻😇: <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -417,7 +417,7 @@ thank page:
   </div>
 </body>
 </html>
-[6:02 pm, 25/12/2024] Silambu 👻😇: /* styles.css */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
